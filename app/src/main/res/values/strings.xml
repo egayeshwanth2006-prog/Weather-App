@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Open-Weather</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close navigation Drawer</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_new_user_screen">NewUserScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="info_button_label">About</string>
+    <string name="main_tagline">Instant forecast</string>
+    <string name="main_title">Live weather, simplified.</string>
+    <string name="main_subtitle">Stay a step ahead of every storm.</string>
+    <string name="main_tip">Pro tip: long-press the button below to pin your favourite city.</string>
+    <string name="main_change_city">Choose another city</string>
+    <string name="weather_icon_description">Animated weather preview</string>
+    <string name="updated_default">Updating…</string>
+    <string name="updated_label">Updated %1$s</string>
+
+    <string name="city_finder_title">Choose a city</string>
+    <string name="city_finder_headline">Pick your next city</string>
+    <string name="city_finder_subtitle">Type a location to fetch the latest forecast.</string>
+    <string name="city_finder_hint">Enter a city name</string>
+    <string name="city_finder_button">Show forecast</string>
+    <string name="city_finder_footer">Powered by the OpenWeather platform</string>
+    <string name="city_finder_error">Let’s pick a city first</string>
+    <string name="city_finder_image_description">Weather app logo</string>
+
+    <string name="info_app_logo">Application logo</string>
+    <string name="info_title">Open-Weather</string>
+    <string name="info_version">Version 1.0 • Powered by OpenWeather</string>
+    <string name="info_body">Open-Weather delivers accurate, hyper-local weather powered by the OpenWeather API. Track temperatures, current conditions, and location-based insights with a calm, modern interface designed for quick glances and deeper dives alike.</string>
+    <string name="info_links_title">Stay connected</string>
+    <string name="info_creator_profile">Creator GitHub</string>
+    <string name="info_repo_link">Project repository</string>
+    <string name="info_footer">Built with care by Sanjeev.K</string>
+
+    <string name="onboarding_logo_description">Open Weather logo</string>
+    <string name="onboarding_title">Your pocket weather studio</string>
+    <string name="onboarding_subtitle">See real-time conditions anywhere on the planet.</string>
+    <string name="onboarding_chip_one">Live alerts</string>
+    <string name="onboarding_chip_two">Smart visuals</string>
+    <string name="onboarding_card_body">Enable location access or pick a city to get tailored forecasts, playful animations, and instant updates for the places you love.</string>
+    <string name="onboarding_cta">Continue to the app</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
